@@ -2,9 +2,9 @@
 
 # Tool Used
 
-1.Material-UI
-2.react-youtube
-3.movie-trailer
+1.Material-UI <br/>
+2.react-youtube <br/>
+3.movie-trailer <br/>
 4.get API_KEY from TMDb
 
 ## Available Scripts
