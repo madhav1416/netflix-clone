@@ -1,0 +1,22 @@
+.banner {
+  object-fit: contain;
+  height: 448px;
+  background-repeat: no-repeat;
+  background: none center/cover #f2f2f2;
+  background-size: cover;
+}
+.banner-content {
+  padding-top: 100px;
+  padding-left: 100px;
+  color: white;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+.banner-description {
+  padding-top: 20px;
+  font-size: 8px;
+  line-height: 20px;
+  max-width: 500px;
+}
+.banner-button {
+  margin-top: 20px;
+}
